@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lixs.charts:charts:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1071998dd4f474b4a6dda4925511eec4/jetified-charts-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1071998dd4f474b4a6dda4925511eec4/jetified-charts-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lixs.charts/charts/1.0.7/b5987756353fb0ace58c846c050b25261f0e8002/charts-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lixs.charts/charts/1.0.7/782c978395750dfbf7075468fffdc4e6567530d7/charts-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="搜索" />
+
+    <item
+        android:id="@+id/questionFragment"
+        android:icon="@drawable/ic_effort"
+        android:title="问答" />
+
+    <item
+        android:id="@+id/practiceFragment"
+        android:icon="@drawable/ic_home"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/scanFragment"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="扫描" />
+
+    <item
+        android:id="@+id/personFragment"
+        android:icon="@drawable/ic_user_icon"
+        android:title="用户" />
+
+</menu>

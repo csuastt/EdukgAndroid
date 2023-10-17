@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-29</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="warn" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df8ad2ff-6caf-4237-98e4-477236cefea8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/ExerciseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/ExerciseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/FavoriteActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/FavoriteActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/LearnActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/LearnActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/PersonDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/PersonDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/PersonSettingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/PersonSettingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/ProgramActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/ProgramActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/QuestionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/courseitem/CourseItemContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/courseitem/CourseItemContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/LoginDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/LoginDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/LoginRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/LoginRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/model/LoggedInUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/data/model/LoggedInUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiVpAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/emoji/EmojiVpAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/CourseCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/CourseCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/GenDebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/GenDebug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/Knowledge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/Knowledge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/MatchCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/MatchCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/MyMatchesCourses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/MyMatchesCourses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/Property.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/model/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/CaptureFileObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/CaptureFileObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/MediaFileBaseObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/MediaFileBaseObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/MediaImageObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/observer/MediaImageObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/service/TimeRecordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/service/TimeRecordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/DetailAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/adapter/DetailAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/KnowledgeDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/KnowledgeDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/KnowledgeDetailViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/KnowledgeDetailViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/QuestionDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/detail/QuestionDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/drawable/TextDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/drawable/TextDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/exercise/First5Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/exercise/First5Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/exercise/Second5Fragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/exercise/Second5Fragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/favorites/FirstFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/favorites/FirstFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/favorites/SecondFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/favorites/SecondFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/BottomNavigationBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/BottomNavigationBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/DarkModePrefManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/DarkModePrefManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/GridSpacingItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/GridSpacingItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/HorizontalMarginItemDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/helpers/HorizontalMarginItemDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/CoursesItemClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/CoursesItemClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/DetailItemClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/DetailItemClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/IAudioPlayListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/IAudioPlayListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/MatchCourseClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/MatchCourseClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/OnViewPagerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/OnViewPagerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/QuestionItemClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/QuestionItemClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/login/LoggedInUserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/login/LoggedInUserView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/login/LoginFormState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/login/LoginFormState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/menupractice/SubPracticeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/menupractice/SubPracticeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_question.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/content_question.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_Edited_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="JUnit4 Test Class" />
+        <option value="layoutResourceFile" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wbIYso2nj69zGBGTukYUwte5oP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_Edited_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-08-20T05:51:36.545Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/androidTest/java/com/appsnipp/education/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/res/layout" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.appsnipp.education.ui.listeners" />
+      <recent name="com.appsnipp.education.ui.detail" />
+      <recent name="com.appsnipp.education.ui.program" />
+      <recent name="com.appsnipp.education.ui.exercise" />
+      <recent name="com.appsnipp.education.ui.menuhome" />
+    </key>
+    <key name="android.template.1237713831">
+      <recent name="com.appsnipp.education" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.appsnipp.education.ui.login" />
+      <recent name="com.appsnipp.education.ui.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="android.template.1326068850">
+      <recent name="com.appsnipp.education.ui.learn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2021autumn\AndroidEducationApp-master\AndroidEducationApp-master\app\src\main\res\layout" />
+      <recent name="D:\2021autumn\AndroidEducationApp-master\AndroidEducationApp-master\app\src\main\res\drawable" />
+      <recent name="D:\2021autumn\AndroidEducationApp-master\AndroidEducationApp-master\app\src\main\res\drawable-xxxhdpi" />
+    </key>
+    <key name="android.template.-282056201">
+      <recent name="com.appsnipp.education" />
+    </key>
+    <key name="android.template.597071835">
+      <recent name="com.appsnipp.education.ui.exercise" />
+      <recent name="com.appsnipp.education.ui" />
+      <recent name="com.appsnipp.education.ui.question" />
+      <recent name="com.appsnipp.education.ui.program" />
+      <recent name="com.appsnipp.education.ui.favorites" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.appsnipp.education" />
+      <recent name="com.appsnipp.education.ui" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="groovy.util" />
+    </key>
+    <key name="android.template.1854840527">
+      <recent name="com.appsnipp.education.chat" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.appsnipp.education.widget in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.appsnipp.education.widget.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.appsnipp.education.widget" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseCardTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.appsnipp.education.model.CourseCardTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.com.appsnipp.education.widget in app" />
+        <item itemvalue="Android Instrumented Tests.CourseCardTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df8ad2ff-6caf-4237-98e4-477236cefea8" name="Default Changelist" comment="" />
+      <created>1628720911203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628720911203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1629439311088">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1629439311088" />
+    <state x="158" y="73" key="#PSD" timestamp="1628991748406">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="158" y="73" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1628991748406" />
+    <state x="351" y="0" key="#app" timestamp="1630557468363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#app/0.0.1280.680@0.0.1280.680" timestamp="1630557468363" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1630769381525">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1630769381525" />
+    <state x="115" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631091310195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="115" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1631091310195" />
+    <state x="351" y="199" width="579" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1631090102975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="199" width="579" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1631090102975" />
+    <state x="425" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1629260546589">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1629260546589" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631096566565">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1631096566565" />
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1630041949556">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1630041949556" />
+    <state x="221" y="96" key="AndroidCreateResourceDirectoryDialog" timestamp="1629084943530">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="96" key="AndroidCreateResourceDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1629084943530" />
+    <state x="138" y="141" key="AndroidCreateResourceFileDialog" timestamp="1630412476045">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="138" y="141" key="AndroidCreateResourceFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1630412476045" />
+    <state x="467" y="171" key="AndroidCreateXmlResourceDialog" timestamp="1628948612123">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="467" y="171" key="AndroidCreateXmlResourceDialog/0.0.1280.680@0.0.1280.680" timestamp="1628948612123" />
+    <state x="496" y="106" key="AndroidProcessChooserDialog" timestamp="1630759236973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="496" y="106" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1630759236973" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1628998899367">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1628998899367" />
+    <state width="1238" height="208" key="GridCell.Tab.0.bottom" timestamp="1630800154195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1630800154195" />
+    <state width="1238" height="208" key="GridCell.Tab.0.center" timestamp="1630800154195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1630800154195" />
+    <state width="1238" height="208" key="GridCell.Tab.0.left" timestamp="1630800154195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1630800154195" />
+    <state width="1238" height="208" key="GridCell.Tab.0.right" timestamp="1630800154195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="208" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1630800154195" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1628861912352">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1628861912352" />
+    <state width="499" height="446" key="SwitcherDM" timestamp="1629285513443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="499" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1629285513443" />
+    <state x="439" y="118" key="chooseDestDirectoryDialog" timestamp="1628998353164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1628998353164" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1630029950843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1630029950843" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1631098899948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1631098899948" />
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628947968884">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1628947968884" />
+    <state x="393" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1628995705303">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="393" y="43" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1628995705303" />
+    <state x="0" y="0" width="773" height="680" key="find.popup" timestamp="1629963267117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="773" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1629963267117" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1630769046933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1630769046933" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1631096119022">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1631096119022" />
+    <state x="304" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1630768241848">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="304" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1630768241848" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsnipp/education/activities/MainActivity.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsnipp/education/widget/RecordButton.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/menupractice/SubPracticeFragment.java</url>
+          <line>410</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsnipp/education/adapter/QuestionAdapter.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appsnipp/education/ui/listeners/CoursesItemClickListener.java</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

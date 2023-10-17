@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">小喵搜题</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_title_import">Import</string>
+    <string name="nav_title_gallery">Gallery</string>
+    <string name="nav_title_slideshow">Slideshow</string>
+    <string name="nav_title_tools">Tools</string>
+    <string name="nav_title_share">Share</string>
+    <string name="nav_title_toggle_theme">Toggle Theme</string>
+    <string name="title_topic_course">Design Thinking</string>
+    <string name="number_courses">19 courses</string>
+    <string name="msg_splash">EducationApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="success_login">登录成功</string>
+    <string name="success_register">注册成功</string>
+    <string name="cancel_edit">修改未保存</string>
+    <string name="success_edit">修改成功</string>
+    <string name="invalid_username">用户名过短或含有非法字符</string>
+    <string name="invalid_oldPassword">原密码不正确</string>
+    <string name="invalid_password">密码长度需要大于5个字符</string>
+    <string name="invalid_password2">两次输入的密码需要保持一致</string>
+    <string name="login_failed">用户名或密码错误</string>
+    <string name="username_duplicated">该用户名已注册</string>
+    <string name="server_failed">服务器异常</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_settings_password">SettingsPasswordActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_program">ProgramActivity</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+</resources>

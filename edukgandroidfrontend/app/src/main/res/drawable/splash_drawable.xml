@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021. rogergcc
+  -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/back_courses"/>
+
+    <item
+        android:top="20dp"
+        android:bottom="100dp"
+        android:left="20dp"
+        android:right="20dp"
+        android:drawable="@drawable/splash_photo"
+        
+        android:gravity="center"
+        />
+    <item
+        android:top="290dp"
+        android:bottom="40dp"
+        android:left="40dp"
+        android:right="40dp"
+        android:drawable="@drawable/study_now_red"
+        android:gravity="center"
+        />
+
+
+
+</layer-list>

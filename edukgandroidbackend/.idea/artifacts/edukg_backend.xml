@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="edukg_backend">
+    <output-path>$PROJECT_DIR$/out/artifacts/edukg_backend</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="edukg_backend/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="edukg_backend" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

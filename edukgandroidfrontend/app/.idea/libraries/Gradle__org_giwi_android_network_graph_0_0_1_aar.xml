@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.giwi:android-network-graph:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/jars/libs/Config.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/jars/libs/Graphs.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/jars/libs/log4j-1.2.16.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ba1410ff5539f25784080b5dcb95ec4/jetified-android-network-graph-0.0.1/jars/libs/Logging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.giwi/android-network-graph/0.0.1/5df35e7813b78da8fe5f7a119632267ece0fe8b8/android-network-graph-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

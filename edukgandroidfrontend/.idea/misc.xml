@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.38385416666666666" />
+        <entry key="app/src/main/res/drawable/bg_color_login.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/bg_stroke_r2_a8a8a8.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/cancel_button_pad.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/categorie.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/chat_input_edgt.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/chat_pad.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/container_search.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/drawable/cross_icon.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/custom_progress.xml" value="0.36564102564102563" />
+        <entry key="app/src/main/res/drawable/detail_pad.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/edge1.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/edge1_thin.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/drawable/edge2.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/edge3.xml" value="0.2796296296296296" />
+        <entry key="app/src/main/res/drawable/edge_1_1.xml" value="0.35" />
+        <entry key="app/src/main/res/drawable/frame_selector.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/ic_account_box_black_24dp.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/ic_effort.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/ic_user.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/ic_user_icon.xml" value="0.21354166666666666" />
+        <entry key="app/src/main/res/drawable/login_button_pad.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/login_pad.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/navigation_edge.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/new_cursor.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/drawable/option1.xml" value="0.35" />
+        <entry key="app/src/main/res/drawable/quit_button_pad.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/scan_edge.xml" value="0.23697916666666666" />
+        <entry key="app/src/main/res/drawable/search_icon_dark.xml" value="0.35" />
+        <entry key="app/src/main/res/drawable/search_img.xml" value="0.2109375" />
+        <entry key="app/src/main/res/drawable/selector_ctype_file.xml" value="0.35" />
+        <entry key="app/src/main/res/drawable/shape_corner.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/shape_corner_blue.xml" value="0.32222222222222224" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.25833333333333336" />
+        <entry key="app/src/main/res/drawable/splash_drawable.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/drawable/splash_photo.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/font-night/adsa.xml" value="0.3854166666666667" />
+        <entry key="app/src/main/res/font/carter_one.xml" value="0.3854166666666667" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/activity_course_stagged.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/activity_dashboard_course.xml" value="0.27355072463768115" />
+        <entry key="app/src/main/res/layout/activity_exercise2.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_favorite.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_learn.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.34782608695652173" />
+        <entry key="app/src/main/res/layout/activity_person_detail.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/activity_person_password.xml" value="0.3283514492753623" />
+        <entry key="app/src/main/res/layout/activity_person_setting.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_program.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_question.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2871376811594203" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/card_course_item.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/card_frutorials.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/card_popular_courses.xml" value="0.2871376811594203" />
+        <entry key="app/src/main/res/layout/common_titlebar.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/content_exercise.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/content_favorite.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/content_program.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/content_question.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/content_question_detail.xml" value="0.23505434782608695" />
+        <entry key="app/src/main/res/layout/dialog_permission.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/dialog_record.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/exercise_title_bar.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/favorite_titlebar.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/fragment_courses_stagged.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/fragment_first2.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/fragment_first3.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/fragment_home_courses.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/fragment_item.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/fragment_item_list.xml" value="0.34782608695652173" />
+        <entry key="app/src/main/res/layout/fragment_matches_courses.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/fragment_person.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/fragment_practice.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/fragment_question.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/fragment_question_detail.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/fragment_scan.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/fragment_sub_module.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/fragment_tag_core.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/include_add_layout.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/include_emoji_layout.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_audio_receive.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_audio_send.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_card2.xml" value="0.28804347826086957" />
+        <entry key="app/src/main/res/layout/item_card3.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/item_card_big.xml" value="0.30344202898550726" />
+        <entry key="app/src/main/res/layout/item_card_big_program.xml" value="0.30344202898550726" />
+        <entry key="app/src/main/res/layout/item_card_new.xml" value="0.30344202898550726" />
+        <entry key="app/src/main/res/layout/item_dropdown.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/item_emoji.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_emoji_vprecy.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_file_receive.xml" value="0.2871376811594203" />
+        <entry key="app/src/main/res/layout/item_file_send.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_image_receive.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_image_send.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_pager_card.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/item_popular_course.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_popular_course_playing.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_select.xml" value="0.23505434782608695" />
+        <entry key="app/src/main/res/layout/item_shop_card.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_text_receive.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_text_send.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_video_receive.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/item_video_send.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/knowledge_detail_fragment.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/knowledge_titlebar.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.2871376811594203" />
+        <entry key="app/src/main/res/layout/learn_titlebar.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/personal_info_fragment.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/program_titlebar.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/question_and_answer.xml" value="0.3383152173913043" />
+        <entry key="app/src/main/res/layout/question_titlebar.xml" value="0.25407608695652173" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/subfragment_home_course_1.xml" value="0.28894927536231885" />
+        <entry key="app/src/main/res/layout/tag_titlebar.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/menu/master_bottom_navigation.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/per_icon.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/per_icon_round.xml" value="0.37135416666666665" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="15">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="android.annotation.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="14" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="15">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="android.annotation.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="14" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.35520833333333335" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2021. rogergcc
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--实现应用背景颜色渐变-->
+    <gradient
+        android:startColor="#005CAF"
+        android:endColor="#2F80ED"
+        android:angle="0" />
+    <corners android:radius="10dp"/>
+</shape>

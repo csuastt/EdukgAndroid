@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2020. rogergcc
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scan_fragment_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_courses"
+    tools:context=".ui.menuscan.ScanFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/scan_layout_vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:background="@color/white"
+            android:gravity="start|top"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_find_title"
+                style="@style/viewParent.headerText"
+                android:layout_width="239dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="27dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="27dp"
+
+                android:layout_marginBottom="10dp"
+                android:paddingBottom="10dp"
+                android:text="自动检测知识点"
+                android:textAlignment="viewStart"
+                android:textSize="28sp" />
+
+            <EditText
+                android:id="@+id/et_word"
+                android:layout_width="362dp"
+                android:layout_height="150dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="@color/white"
+                android:gravity="start|top"
+                android:hint="在此输入要扫描的文本"
+                android:maxLength="100"
+                android:paddingLeft="10dp"
+                android:paddingTop="12dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="35dp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/grey"
+                android:textSize="20sp" />
+
+            <RelativeLayout
+                android:id="@+id/tv_word"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="0dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp">
+
+                <TextView
+                    android:id="@+id/tv_word_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="0"
+                    android:textColor="@color/light_blue"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/tv_word_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_word_count"
+                    android:layout_toRightOf="@id/tv_word_count"
+                    android:text="/200"
+                    android:textColor="#999999"
+                    android:textSize="20sp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/knowledge_recycle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/scan_layout_vertical"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="52dp"></androidx.recyclerview.widget.RecyclerView>
+
+
+    </RelativeLayout>
+</FrameLayout>
